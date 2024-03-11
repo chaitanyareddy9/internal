@@ -1,0 +1,65 @@
+{
+    "courses": [
+      {
+        "name": "CSE",
+        "details": "View Details",
+        "semesters": [
+          {"name": "I - I Sem"},
+          {"name": "I - II Sem"},
+          {"name": "II - I Sem"},
+          {"name": "II - II Sem"}
+        ]
+      },
+      {
+        "name": "CSE - AIML",
+        "details": "View Details",
+        "semesters": [
+          {"name": "I - I Sem"},
+          {"name": "I - II Sem"},
+          {"name": "II - I Sem"},
+          {"name": "II - II Sem"}
+        ]
+      },
+      {
+        "name": "CSE - DATA SCIENCE",
+        "details": "View Details",
+        "semesters": [
+          {"name": "I - I Sem"},
+          {"name": "I - II Sem"},
+          {"name": "II - I Sem"},
+          {"name": "II - II Sem"}
+        ]
+      },
+      {
+        "name": "CSE - CYBER SECURITY",
+        "details": "View Details",
+        "semesters": [
+          {"name": "I - I Sem"},
+          {"name": "I - II Sem"},
+          {"name": "II - I Sem"},
+          {"name": "II - II Sem"}
+        ]
+      },
+      {
+        "name": "CSE - IoT",
+        "details": "View Details",
+        "semesters": [
+          {"name": "I - I Sem"},
+          {"name": "I - II Sem"},
+          {"name": "II - I Sem"},
+          {"name": "II - II Sem"}
+        ]
+      },
+      {
+        "name": "INFORMATION TECHNOLOGY",
+        "details": "View Details",
+        "semesters": [
+          {"name": "I - I Sem"},
+          {"name": "I - II Sem"},
+          {"name": "II - I Sem"},
+          {"name": "II - II Sem"}
+        ]
+      }
+    ]
+  }
+  
